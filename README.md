@@ -52,7 +52,7 @@ The clean design is not the only amazing thing that comes with [Slides](https://
  -  SEO Friendly
  -  Multi-page Website
  -  Popular services integrations
-
+ 
 This app is perfect for those who are willing to design outstanding websites as it offers numerous possibilities for creation.
 
 **License**
